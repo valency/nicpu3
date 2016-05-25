@@ -104,6 +104,7 @@
                     <h1 class="text-white">The NiCPU Server #3</h1>
                     <p class="lead text-white">Click the Top Right Button to Show Projects</p>
                     <a target="_blank" href="http://www.cse.ust.hk/~valency" class="btn btn-primary btn-white">Copyright</a>
+                    <a target="_blank" href="server.crt" class="btn btn-primary btn-white">Certificate</a>
                 </div>
             </div>
         </div>
