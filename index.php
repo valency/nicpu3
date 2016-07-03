@@ -1,3 +1,6 @@
+<?php
+if(strstr($_SERVER['HTTP_HOST'],'rhea-consult.com'))header("Location:rhea");
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>
 <html class="no-js lt-ie9 lt-ie8 lt-ie7">
@@ -65,10 +68,7 @@
                 <li><a href="reactor" class="inner-link" target="_blank">Reactor</a></li>
                 <li><a href="metronic/start.html" class="inner-link" target="_blank">Metronic</a></li>
                 <li><a href="avatar" class="inner-link" target="_blank">Avatar</a></li>
-                <li><a href="joker" class="inner-link" target="_blank">SmartCube</a></li>
                 <li><a href="lottery" class="inner-link" target="_blank">Lottery</a></li>
-                <li><a href="franz" class="inner-link" target="_blank">DMP</a></li>
-                <li><a href="hec" class="inner-link" target="_blank">Hec Casino</a></li>
             </ul>
             <ul class="social-icons">
                 <li>
