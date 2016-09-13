@@ -68,6 +68,7 @@ if(strstr($_SERVER['HTTP_HOST'],'rhea-consult.com'))header("Location:rhea");
                 <li><a href="reactor" class="inner-link" target="_blank">Reactor</a></li>
                 <li><a href="metronic/start.html" class="inner-link" target="_blank">Metronic</a></li>
                 <li><a href="avatar" class="inner-link" target="_blank">Avatar</a></li>
+                <li><a href="joker" class="inner-link" target="_blank">SmartCube</a></li>
                 <li><a href="lottery" class="inner-link" target="_blank">Lottery</a></li>
             </ul>
             <ul class="social-icons">
