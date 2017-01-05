@@ -63,7 +63,6 @@ if(strstr($_SERVER['HTTP_HOST'],'rhea-consult.com'))header("Location:rhea");
         <div class="offscreen-container">
             <img alt="logo" class="logo" src="img/logo-light.png">
             <ul class="menu">
-                <li><a href="https://nicpu3.cse.ust.hk" class="inner-link" target="_blank">GitLab</a></li>
                 <li><a href="http://nicpu3.cse.ust.hk:8080" class="inner-link" target="_blank">Wetty</a></li>
                 <li><a href="reactor" class="inner-link" target="_blank">Reactor</a></li>
                 <li><a href="avatar" class="inner-link" target="_blank">Avatar</a></li>
